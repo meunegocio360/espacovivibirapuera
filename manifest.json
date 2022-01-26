@@ -1,8 +1,7 @@
 {
- "start_url": "index.htm",
  "name": "Espaço VIV - Ibirapuera - Tour Virtual 360°",
- "theme_color": "#663366",
- "background_color": "#663366",
+ "start_url": "index.htm",
+ "description": "R. Dr. Bacelar, 82 - Vila Clementino, São Paulo - SP",
  "display": "fullscreen",
  "icons": [
   {
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "R. Dr. Bacelar, 82 - Vila Clementino, São Paulo - SP"
+ "theme_color": "#663366",
+ "background_color": "#663366"
 }
