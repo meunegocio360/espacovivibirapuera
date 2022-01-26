@@ -37,14 +37,14 @@ HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-ali
 ## Media
 
 ### Title
-panorama_9E0F894B_9468_12C1_41CC_EB29AC685549.label = Corredor Superior 2
-panorama_9E690B1D_9468_1640_41D3_D9DD90F95C73.label = Recepção
-panorama_9E691301_9468_7640_41B4_F5AD63599FA7.label = Sala Banheira
-panorama_9E691B5A_9468_76C0_41E0_89D15580FE0C.label = Sala Superior 2
-panorama_9E692AD3_9468_37C1_41E2_1667F2AE6B59.label = Fachada
-panorama_9E692B59_9468_16C0_41E0_FC6C2AB27E9F.label = Sala Superior
-panorama_9E697322_9468_1643_41E1_C074F728AD22.label = Pos Recepção
-panorama_9E69C31A_9468_1643_41D3_02F610FBD9D6.label = Sala Superior 3
+panorama_B6134412_95A8_7240_41B5_5FFC75A7908A.label = Recepção
+panorama_B73278E9_95A8_33C1_41BE_68CCA1B1A380.label = Sala Superior 2
+panorama_B735E7D3_95A8_1DC1_41D6_E23D16B879B0.label = Pos Recepção
+panorama_B7997831_95A8_1240_41CC_FEFF055B520F.label = Corredor Superior 2
+panorama_B7B19380_95A8_F640_41D3_E07BFE17EBCA.label = Fachada
+panorama_B7C31E52_95A8_0EC0_41D5_3DE2F7518328.label = Sala Banheira
+panorama_B7C4C3FD_95AB_F5C1_41E1_6B51684134F5.label = Sala Superior
+panorama_B7C9F260_95A8_16C0_41AD_E973084F4B16.label = Sala Superior 3
 
 ## Action
 
