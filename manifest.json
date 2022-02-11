@@ -1,7 +1,7 @@
 {
- "name": "Espaço VIV - Tour Virtual360°",
- "background_color": "#FFFFFF",
- "description": "Rua dos Ingleses, 325 - Bela Vista, São Paulo - SP, 01329-030",
+ "name": "Espaço VIV - Ibirapuera - Tour Virtual 360°",
+ "background_color": "#663366",
+ "description": "R. Dr. Bacelar, 82 - Vila Clementino, São Paulo - SP",
  "display": "fullscreen",
  "start_url": "index.htm",
  "icons": [
@@ -41,5 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "theme_color": "#663366"
 }
